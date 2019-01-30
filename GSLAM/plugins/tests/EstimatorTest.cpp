@@ -1,7 +1,6 @@
 #include "gtest.h"
 #include <GSLAM/core/Estimator.h>
 #include <GSLAM/core/Random.h>
-#include <GSLAM/core/Array.h>
 
 using namespace GSLAM;
 
